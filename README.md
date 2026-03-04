@@ -29,3 +29,34 @@ Coming Soon...
 ---
 
 ## 🏗 Project Structure
+pizz_a64/
+│
+├── app/
+│ ├── config/
+│ │ └── database.php
+│ │
+│ ├── controllers/
+│ ├── models/
+│ ├── views/
+│
+├── public/
+│ ├── assets/
+│ ├── css/
+│ ├── js/
+│
+├── database.sql
+├── index.php
+└── README.md
+
+
+---
+
+## 🛠 Technologies Used
+
+- PHP (OOP)
+- MySQL
+- PDO
+- HTML5
+- CSS3
+- JavaScript
+- Font Awesome
